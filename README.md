@@ -20,5 +20,7 @@ npm run build
 npm run test:unit
 ```
 
+### Puedes jugar aquí: https://beautiful-cupcake-65706f.netlify.app/
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
